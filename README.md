@@ -16,7 +16,7 @@ This is a fast and simple command-line tool written in C++ that allows you to se
     
 ### Installation
 
-    git clone https://github.com/guendouzaimed/dirforce.git
+    git clone https://github.com/DARKSTUFF-LAB/dirforce.git
     
 change working directory to dirforce
 
